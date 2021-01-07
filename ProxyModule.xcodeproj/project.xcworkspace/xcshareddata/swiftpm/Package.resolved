@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire",
+        "state": {
+          "branch": null,
+          "revision": "eaf6e622dd41b07b251d8f01752eab31bc811493",
+          "version": "5.4.1"
+        }
+      },
+      {
+        "package": "Kingfisher",
+        "repositoryURL": "https://github.com/onevcat/Kingfisher",
+        "state": {
+          "branch": null,
+          "revision": "5840cfe0d4a942be41c1cb8a325cc27dd50be1e4",
+          "version": "6.0.0"
+        }
+      },
+      {
+        "package": "RIBs",
+        "repositoryURL": "https://github.com/uber/RIBs",
+        "state": {
+          "branch": "master",
+          "revision": "ffc489f00db785c8c0051678393f7aba0d52f1a4",
+          "version": null
+        }
+      },
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift",
+        "state": {
+          "branch": null,
+          "revision": "002d325b0bdee94e7882e1114af5ff4fe1e96afa",
+          "version": "5.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
